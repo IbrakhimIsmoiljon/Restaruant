@@ -1,0 +1,16 @@
+.circle {
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  background-color: #D67E34;
+  border-radius: 50%;
+  box-shadow: 2px -1px 0px 15px #fff;
+  margin-top: -80px;
+  margin-left: 270px;
+}
+.circle h3 {
+  position: absolute;
+  padding: 1.25rem;
+  color: #fff;
+  font-family: Tonis;
+}/*# sourceMappingURL=style.css.map */
